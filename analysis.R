@@ -7,3 +7,6 @@ mean_mpg <- mean(mtcars$mpg)
 # print the mean mpg
 mean_mpg
 
+# look at mtcars
+mtcars
+
